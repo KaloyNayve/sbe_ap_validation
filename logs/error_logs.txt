@@ -1,0 +1,49 @@
+
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 10:38:40
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:38:45
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:38:48
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:38:54
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 10:55:51
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:55:56
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:56:02
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
+-----------------------------------
+ portal: ap_validation - email extraction
+ username: system
+ date: 2020/10/23 time: 14:56:08
+ query: INSERT INTO AP_VALIDATION() values ()
+ -----------------------------------
